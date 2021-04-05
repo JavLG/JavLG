@@ -50,12 +50,12 @@ I'm a Full Stack Developer, living in Buenos Aires, Argentina. I'm currently wor
 				'Watching Sci-fi Movies/Series',
 				'Cooking Asado'
 				'Doing some katas from codewars.com'
-			]
+		   ]
 	
 	def getCity():
 		return Buenos_Aires()
 	
-	def Ambitions():
+	def ambitions():
 		LearnGraphQL()
 		WorkRemotely()
 		BuildMyOwnBusiness()
