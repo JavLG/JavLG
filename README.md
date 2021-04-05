@@ -1,5 +1,7 @@
 ### Hey, [Javi](https://www.linkedin.com/in/javier-lopez-galache-6b9a4b150/) here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<img src="https://i.pinimg.com/originals/7a/49/f8/7a49f815262d7cbd313c80936d0a02ba.gif" width="350px" align="right">
+
 I'm a Full Stack Developer, living in Buenos Aires, Argentina. I'm currently working on an e-learning platform and some personal projects. Apart from coding, I'm an active key-user of one of the biggest Discord Partner communities for Spanish talking Developers.
 
 # 🔧 Technologies & Tools
@@ -11,7 +13,9 @@ I'm a Full Stack Developer, living in Buenos Aires, Argentina. I'm currently wor
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 </div>
 
-## ✨ Framework
+<br>
+
+### ✨ Framework
 <div style="display: flex;">
 <img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
 <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
@@ -24,7 +28,9 @@ I'm a Full Stack Developer, living in Buenos Aires, Argentina. I'm currently wor
 <img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
 </div>
 
-## ✨ Version Control
+<br>
+
+### ✨ Version Control
 
 <div style="display: flex;">
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
@@ -34,15 +40,25 @@ I'm a Full Stack Developer, living in Buenos Aires, Argentina. I'm currently wor
 
 <br/>
 
-Here are some ideas to get you started:
+## More about me
+ ```python
+ class MyInfo:
+ nickname = 'Biggie'
+	current_edu = "Industrial Engineering"
+	hobbies = [
+				'Playing Videogames',
+				'Watching Sci-fi Movies/Series',
+				'Cooking Asado'
+				'Doing some katas from codewars.com'
+			]
+	
+	def getCity():
+		return Buenos_Aires()
+	
+	def Ambitions():
+		LearnGraphQL()
+		WorkRemotely()
+		BuildMyOwnBusiness()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- ✨ ✨ ✨ ✨ ✨ ✨
+```
+
