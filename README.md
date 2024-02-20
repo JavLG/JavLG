@@ -2,7 +2,7 @@
 
 <img src="https://i.pinimg.com/originals/7a/49/f8/7a49f815262d7cbd313c80936d0a02ba.gif" width="350px" align="right">
 
-I'm a Full Stack Developer, living in Buenos Aires, Argentina. I'm currently working as an Implementation Engineer for Socialcore Group 🇮🇪. On my free time I focus on personal projects and investigating new libraries and tech stacks to satiate my love for Technology. Apart from coding, I'm an active key-user of one of the biggest Discord Partner communities for Spanish talking Developers.
+I'm a Full Stack Developer, living in Valencia, Spain. I'm currently working as an Implementation Engineer for Socialcore Group 🇮🇪. On my free time I focus on personal projects and investigating new libraries and tech stacks to satiate my love for Technology. Apart from coding, I'm an active key-user of one of the biggest Discord Partner communities for Spanish talking Developers.
 
 # 🔧 Technologies & Tools
 <div style="display: flex;">
